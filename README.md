@@ -16,7 +16,7 @@
 
 - [Alexandre Oliveira Mantovani](https://www.linkedin.com/in/alexomantovani)
 - [Edmar Ferreira Souza](https://www.linkedin.com/in/)
-- [Enyd Crystina Rodrigues de Oliveira Bentivoglio](https://www.linkedin.com/in/)
+- [Enyd Crystina Rodrigues de Oliveira Bentivoglio](https://www.linkedin.com/in/enyd-bentivoglio-a47608364/)
 - [Ricardo Lourenço Coube](https://www.linkedin.com/in/ricardolcoube/)
 - [Jose Andre Filho](https://www.linkedin.com/in/joseandrefilho)
 
@@ -30,6 +30,7 @@
 ## 📌 Descrição do Projeto
 
 Este repositório apresenta a **Sprint 3** do desafio proposto pela empresa **Ingredion**, com foco na **validação do modelo de IA** desenvolvido na Sprint 2. O objetivo é verificar a correlação entre o **NDVI** e a **produtividade real da cultura do café**, utilizando dados históricos públicos e imagens NDVI.
+Como os dados públicos disponíveis não incluem informações por talhão, realizamos uma simulação controlada de dados espaciais, dividindo os valores agregados anuais em 9 talhões fictícios. Essa simulação teve como objetivo ilustrar como análises mais granulares poderiam beneficiar o modelo de IA no futuro, com uso de imagens de alta resolução ou dados de campo. a Sprint 3 do desafio proposto pela empresa Ingredion, com foco na validação do modelo de IA desenvolvido na Sprint 2. O objetivo é verificar a correlação entre o NDVI e a produtividade real da cultura do café, utilizando dados históricos públicos e imagens NDVI.
 
 ---
 
